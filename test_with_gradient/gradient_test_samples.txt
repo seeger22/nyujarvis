@@ -1,0 +1,5 @@
+[{"Q" : "There's a question, Professor. Is there any opportunity for extra marks?", "A":"not really I mean, we only have 3 assignments right? We have 2. So far. we're gonna have a third one out. You have participation which should be pretty easy to accomplish. and also your final project. We don't have exams. if you think you're not doing very well in the class. feel free to talk to me. But that should be the exception. Okay? So no. At this point there's no plan for extra marks. Any other questions."},
+{"Q" : "How do we submit the proposal?",
+"A" : "My understanding is that this morning we opened great great scope right? If it's not open, can somebody try there and let me know? I was told that we were gonna open this morning. So we're gonna submit it just like any any of the 2 assignments we've had just submitted on great scope. Okay. it's not open yet. Okay. so we'll let me let me slack folks and then we can and then we can have that open for you."},
+{"Q": "What is the 3 step recipe in ML?",
+"A" : "the 3 step recipe in ML are: representation, loss function, and optimizer."}]
